@@ -1,0 +1,3 @@
+.receita__conteudo { /*flex-container de receita__descricao, receita__titulo e receita__botao*/
+    padding: 1rem;
+}
